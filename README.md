@@ -15,6 +15,6 @@
 ![image](https://raw.githubusercontent.com/zhuzhenpeng/PdfKit/master/images/result.jpg)
 
 ## 运行注意事项：
-1. 环境有PyPDF2 (1.23)库
-2. 环境有docopt (0.6.2)库
+1. 需要PyPDF2 (1.23)库
+2. 需要docopt (0.6.2)库
 3. 进入pdf目录后，执行pk.py文件即可看到基本的命令, pk -h 进一步查看命令
