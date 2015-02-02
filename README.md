@@ -9,10 +9,12 @@
 1. 如果是生成书签，则至少说明目录所在页数和内容第一页所在页数，输出原pdf的副本文件（*_copy.pdf）
 2. 如果合并pdf，则按顺序说明被合成的pdf所在路径，输出merge.pdf
 <br>
-![image]()
+![image](https://raw.githubusercontent.com/zhuzhenpeng/PdfKit/master/images/help.jpg) 
+
 ## 效果图
-![image]()
+![image](https://raw.githubusercontent.com/zhuzhenpeng/PdfKit/master/images/result.jpg)
+
 ## 运行注意事项：
 1. 环境有PyPDF2 (1.23)库
 2. 环境有docopt (0.6.2)库
-3. 进入pdf目录后，执行pk.py文件即可看到基本的命令, pk -h 进一步查看命令<br>
+3. 进入pdf目录后，执行pk.py文件即可看到基本的命令, pk -h 进一步查看命令
