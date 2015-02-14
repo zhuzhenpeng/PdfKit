@@ -15,6 +15,6 @@
 ![image](https://raw.githubusercontent.com/zhuzhenpeng/PdfKit/master/images/result.jpg)
 
 ## 运行注意事项：
-1. 需要PyPDF2 (1.23)库, sudo pip install PyPDF2
-2. 需要docopt (0.6.2)库, sudo pip install docopt
+1. 需要PyPDF2 (1.23)库, sudo pip3 install PyPDF2
+2. 需要docopt (0.6.2)库, sudo pip3 install docopt
 3. 进入pdf目录后，运行pk.py文件即可看到基本的命令, pk -h 进一步查看命令
